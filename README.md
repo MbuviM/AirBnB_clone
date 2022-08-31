@@ -33,6 +33,7 @@ The console is able to:
 
 To see how the console works, clone this repo on your local machine.  
 The console's entry poin should be the file `console.py`.  
+To start the console, ensure the file has executable rights and run `./console.py` in the same directory.    
 The console works in both interactive and non-interactive modes.  
 
 ```sh
