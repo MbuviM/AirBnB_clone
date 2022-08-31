@@ -35,7 +35,7 @@ To see how the console works, clone this repo on your local machine.
 The console's entry poin should be the file `console.py`.  
 The console works in both interactive and non-interactive modes.  
 
-```
+```sh
 
 # Interactive mode
 
